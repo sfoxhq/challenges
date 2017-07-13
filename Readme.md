@@ -30,6 +30,5 @@ canvas taxi pudding rent exchange remain erosion august engage family bus swamp 
 ## TODO include hashes signed with the keys?
 
 ## Acceptable languages
-- Javascript
 - Python
-- Go
+- JavaScript
