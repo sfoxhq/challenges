@@ -27,8 +27,6 @@ In order to complete the coding task you were assigned, you will need to write a
 canvas taxi pudding rent exchange remain erosion august engage family bus swamp gown later shoe chaos erode where spring fever mother half enrich blast
 ```
 
-## TODO include hashes signed with the keys?
-
 ## Acceptable languages
 - Python
 - JavaScript
