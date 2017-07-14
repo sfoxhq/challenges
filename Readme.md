@@ -1,9 +1,9 @@
 ## SFOX Code Challenges
 
 ## Background
-Hello and welcome to the SFOX code challenges. We look forward to talking to you about
+Hello and welcome to the SFOX code challenges. We look forward to talking to you more about your experence throughout this interview process.
 
-These challenges are designed to test your ability to solve complex problems. We realize your time is valuable so please don't spend more then 2 hours on these projects. Try to have fun with them.
+These challenges are designed to test your ability to solve problems. We realize your time is valuable so please don't spend more then 2 hours on these projects. Try to have fun with them, and reach out if you have any questions.
 
 ## Getting started
 
@@ -15,12 +15,14 @@ The only problem is that we copied the phrase down wrong. We do, however, know a
 
 - We used the standard bip39 english dictionary
 - The words were copied in the correct order
-- The first three letters of each word is correct
+- At least the first two letters of each word is correct
 - The last word was copied correctly
 - Assignments were encrypted using AES 256
 - The mnemonic phrase was used as a key to encrypt the files
 
-In order to complete the coding task you were assigned, you will need to write a script that recovers this phrase first. Then you will be able to use the recovered phrase to decrypt the coding challenge.
+In order to complete the coding task you were assigned, you will need to write a script that recovers this phrase first. Then you will need to use the recovered phrase to decrypt the coding challenge.
+
+Happy hacking!
 
 ## Incorrectly copied mnemonic
 ```
