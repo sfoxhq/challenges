@@ -30,5 +30,7 @@ canvas taxi pudding rent exchange remain erosion august engage family bus swamp 
 ```
 
 ## Acceptable languages
-- Python
 - JavaScript
+- C++
+- Golang
+
