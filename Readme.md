@@ -23,6 +23,9 @@ The only problem is that we copied the phrase down wrong. We do, however, know a
 
 In order to complete the coding task you were assigned, you will need to write a script that recovers this phrase first. Then you will need to use the recovered phrase to decrypt the coding challenge.
 
+## Decrypted Checksums
+./foxtoken-monitor/Readme `423b0c0f916cdef0bfcb86d69be7f229858e581b2ad177a19fbf5e68948f1596`
+
 Happy hacking!
 
 ## Incorrectly copied mnemonic
