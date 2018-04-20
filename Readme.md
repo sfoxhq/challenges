@@ -17,8 +17,9 @@ The only problem is that we copied the phrase down wrong. We do, however, know a
 - The words were copied in the correct order
 - At least the first two letters of each word is correct
 - The last word was copied correctly
-- Assignments were encrypted using AES 256
-- The mnemonic phrase was used as a key to encrypt the files
+- Assignments were encrypted using OpenSSL AES-256-CBC
+- The initialization vector was `UWdLUx9/vYBJoVplMViRTA==` (encoded in base64)
+- The mnemonic phrase is sha256 hashed to get the key used to encrypt
 
 In order to complete the coding task you were assigned, you will need to write a script that recovers this phrase first. Then you will need to use the recovered phrase to decrypt the coding challenge.
 
